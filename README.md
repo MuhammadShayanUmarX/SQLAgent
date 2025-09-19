@@ -172,6 +172,10 @@ Project Root/
 - Lifetime value rankings with complex calculations
 - Category performance analysis with drill-down capabilities
 
+  <img width="1578" height="738" alt="ss main" src="https://github.com/user-attachments/assets/db67c48d-407f-43ce-adfb-b08ba3dbf023" />
+<img width="1343" height="690" alt="2" src="https://github.com/user-attachments/assets/ec354aa6-4324-4595-b53a-90f6fbdf0be1" />
+
+
 ## 🗄️ Database Schema
 
 The included SQLite database contains realistic e-commerce data:
